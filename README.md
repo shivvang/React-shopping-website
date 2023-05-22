@@ -16,7 +16,11 @@ The project focuses on creating a responsive and interactive user interface for 
 The project structure follows a typical React application structure:
 
 src/: The main source code directory.
+
 components/: Contains React components used throughout the application.
+
 pages/: Contains individual pages of the website.
+
 App.js: The root component of the application.
+
 index.js: The entry point of the application.
