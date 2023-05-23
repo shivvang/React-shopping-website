@@ -3,6 +3,13 @@
 This repository contains a shopping website project built using React, styled-components, Material-UI, and React props. 
 The project focuses on creating a responsive and interactive user interface for an online shopping experience.
 
+
+
+## Features
+- Responsive design for mobile and desktop devices
+
+- Image sliders or carousels for showcasing content
+
 ## Technologies Used
 
 - React: Used as the main JavaScript library for building the user interface.
